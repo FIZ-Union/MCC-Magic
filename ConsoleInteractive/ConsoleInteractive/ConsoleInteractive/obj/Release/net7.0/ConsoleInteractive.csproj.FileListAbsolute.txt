@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\bin\Release\net7.0\ConsoleInteractive.deps.json
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\bin\Release\net7.0\ConsoleInteractive.dll
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ConsoleInteractive.dll
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\refint\ConsoleInteractive.dll
+C:\Users\Administrator\Desktop\mcccode\ConsoleInteractive\ConsoleInteractive\ConsoleInteractive\obj\Release\net7.0\ref\ConsoleInteractive.dll

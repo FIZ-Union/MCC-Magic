@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleInteractive/1.0.0": {
+        "dependencies": {
+          "PInvoke.Kernel32": "0.7.124",
+          "Wcwidth": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleInteractive.dll": {}
+        }
+      },
+      "PInvoke.Kernel32/0.7.124": {
+        "dependencies": {
+          "PInvoke.Windows.Core": "0.7.124",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PInvoke.Kernel32.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.124.52293"
+          }
+        }
+      },
+      "PInvoke.Windows.Core/0.7.124": {
+        "dependencies": {
+          "System.Memory": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PInvoke.Windows.Core.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.124.52293"
+          }
+        }
+      },
+      "System.Memory/4.5.4": {},
+      "System.Threading.Tasks.Extensions/4.5.4": {},
+      "Wcwidth/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Wcwidth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleInteractive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PInvoke.Kernel32/0.7.124": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3yQudp7J20HH8oW2WsGdNlcRCJAG6Slens3n4P7c6m53m0SkXLyD5ry/bXYAFXYeIym9b0LIOvrmKjmzptmkWw==",
+      "path": "pinvoke.kernel32/0.7.124",
+      "hashPath": "pinvoke.kernel32.0.7.124.nupkg.sha512"
+    },
+    "PInvoke.Windows.Core/0.7.124": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-er/PkwUBie3nXlwiKOfOxmdAj6ae8eFCLUgI5g6+9RAbyMoXMQnwAPx1atq0ZxU2LeozBdWtMQjogqcMNJhg1w==",
+      "path": "pinvoke.windows.core/0.7.124",
+      "hashPath": "pinvoke.windows.core.0.7.124.nupkg.sha512"
+    },
+    "System.Memory/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "path": "system.memory/4.5.4",
+      "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "Wcwidth/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aekut5BeF4c1Jr2qab3aXcttcgPEfPb2ok2L8911EIzn3RnDBYnUWgx/1OVlqrSXCdwAkBpNgYWXb6b5t4cBng==",
+      "path": "wcwidth/1.0.0",
+      "hashPath": "wcwidth.1.0.0.nupkg.sha512"
+    }
+  }
+}
