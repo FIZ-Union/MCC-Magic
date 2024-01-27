@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MinecraftClient</id>
+    <version>1.0.0</version>
+    <authors>MinecraftClient</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="84372e4842b643b7d79f2b750a2fa50f670025b3" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="ConsoleInteractivePrompt" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Brigadier.NET" version="1.2.13" exclude="Build,Analyzers" />
+        <dependency id="DSharpPlus" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="DnsClient" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="DotNetZip" version="1.16.0" exclude="Build,Analyzers" />
+        <dependency id="DynamicExpresso.Core" version="2.13.0" exclude="Build,Analyzers" />
+        <dependency id="FuzzySharp" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Magick.NET-Q16-AnyCPU" version="13.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Windows.Compatibility" version="7.0.3" exclude="Build,Analyzers" />
+        <dependency id="Samboy063.Tomlet" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="SingleFileExtractor.Core" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Telegram.Bot" version="18.0.0" exclude="Build,Analyzers" />
+        <dependency id="starksoft.aspen" version="1.1.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net7.0/Resources/AppIcon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\Desktop\mcccode\MinecraftClient\bin\Debug\net7.0\MinecraftClient.runtimeconfig.json" target="lib\net7.0\MinecraftClient.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\Desktop\mcccode\MinecraftClient\bin\Debug\net7.0\MinecraftClient.dll" target="lib\net7.0\MinecraftClient.dll" />
+    <file src="C:\Users\Administrator\Desktop\mcccode\MinecraftClient\Resources\AppIcon.ico" target="content\Resources\AppIcon.ico" />
+    <file src="C:\Users\Administrator\Desktop\mcccode\MinecraftClient\Resources\AppIcon.ico" target="contentFiles\any\net7.0\Resources\AppIcon.ico" />
+  </files>
+</package>
